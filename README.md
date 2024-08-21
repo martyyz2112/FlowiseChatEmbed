@@ -165,7 +165,7 @@ You can also customize chatbot with different configuration
         },
         footer: {
           textColor: '#303235',
-          text: 'Powered by',
+          text: 'Desenvolvido por',
           company: 'Flowise',
           companyLink: 'https://flowiseai.com',
         }
